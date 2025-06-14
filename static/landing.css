@@ -1,0 +1,20 @@
+.topbar {
+  background-color: #333;
+  padding: 10px;
+}
+
+.topbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.topbar li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.topbar a {
+  color: white;
+  text-decoration: none;
+}
